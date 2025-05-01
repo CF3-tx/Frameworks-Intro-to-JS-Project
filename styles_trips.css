@@ -1,0 +1,67 @@
+/* General */
+body {
+    margin: 15px;
+    background-color: #ffe8e8;
+    box-sizing: border-box;
+    font-family: 'georgia', serif;
+}
+
+h2 {
+  color: #000000;
+  font-family: 'georgia', serif;
+  font-size: 50px;
+  text-align: center; 
+}
+
+/* Navigation Bar */
+.navbar-brand {
+  color: #000000;
+  font-family: 'georgia', serif;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.navbar {
+  font-weight: bold;
+  background-image: url("Images/nav1.jpg");
+}
+
+.navbar-nav {
+  color: #ffe8e8;
+  font-family: 'georgia', serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* Accordion */
+.accordion {
+    background-color: #ffe8e8;
+    margin-top: 70px;
+}
+
+/* Table */
+.table-container {
+    background-color: #ffe8e8;
+}
+
+/* Pricing Calculator */
+.form-container {
+    background-color: #ffe8e8;
+}
+
+/* Footer */
+.divider {
+  padding-top: 10px;
+}
+
+.fp1 {
+  font-family: 'georgia', serif;
+  font-size: 30px;
+  text-align: center;
+}
+
+.fp2 {
+  font-family: 'georgia', serif;
+  font-size: 20px;
+  text-align: center;    
+}

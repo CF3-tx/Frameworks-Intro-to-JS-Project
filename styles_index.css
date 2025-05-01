@@ -1,0 +1,117 @@
+/* Navigation Bar */
+.navbar-brand {
+    color: #000000;
+    font-family: 'georgia', serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.navbar {
+    font-weight: bold;
+    background-image: url("Images/nav1.jpg");
+}
+
+.navbar-nav {
+    color: #ffe8e8;
+    font-family: 'georgia', serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* Carousel */
+.recommendations-container {
+    padding: 15px;
+}
+h2 {
+    color: #000000;
+    font-family: 'georgia', serif;
+    font-size: 50px;
+    text-align: center; 
+}
+
+.hero-img {
+    width: 100%;
+    height: 45vw;
+    object-fit: cover;
+}
+
+/* Cards */
+.card-title {
+    color: #787878;
+    font-family: 'georgia', serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+/* Information Section */
+.info-container {
+    background-color: #ffe8e8;
+    padding: 15px
+}
+
+.info-img {
+    width: 40%;
+}
+
+.info-text {
+    margin:auto;
+    width: 50%;
+    border: 3px
+    padding: 10px;
+}
+
+.info-head {
+    text-align: center;
+    color: #000000;
+    font-family: 'georgia', serif;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.info-paragraph {
+    font-family: 'georgia', serif;
+    padding-top: 10px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+/* Mazatlan */
+.mazatlan-text {
+    align-items: center;
+    text-align: center;
+}
+
+.mazatlan-head {
+    font-family: 'georgia', serif;
+    font-size: 25px;
+}
+
+.mazatlan-paragraph {
+    font-family: 'georgia', serif;
+    padding-top: 10px;
+    text-align: center;
+}
+
+/* Footer */
+.divider {
+    padding-top: 10px;
+}
+
+.fp1 {
+    font-family: 'georgia', serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+.fp2 {
+    font-family: 'georgia', serif;
+    font-size: 20px;
+    text-align: center;    
+}
